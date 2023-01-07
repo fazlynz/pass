@@ -1,0 +1,8 @@
+{
+  "name": "pass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "69b1b140"
+}
